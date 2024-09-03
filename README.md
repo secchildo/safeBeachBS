@@ -1,6 +1,6 @@
 # safeBeachBS
 
-| <img scr="https://github.com/secchildo/safeBeachBS/blob/3448fe42432dc9c9503dca00fd09f91204abbdab/logo.png" width="35%"> |
+| <img src="https://github.com/secchildo/safeBeachBS/blob/3448fe42432dc9c9503dca00fd09f91204abbdab/logo.png" width="35%"> |
 |:--:| 
 
 
