@@ -23,3 +23,9 @@ When potential risky wind-wave and sea-level conditions are identified on the da
 3) a third flag for occurrence of flooding on the beach.
 
 The user can access this application and request a report for those flags.
+
+## What-if-Scenarios
+
+Addtionally, the user can test Nature-based Solutions and figure out how the coast can be protected against the conditions simulated.
+
+
