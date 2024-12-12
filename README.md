@@ -1,6 +1,8 @@
+<img src="https://www.hereon.de/cms60/res/assets/logos/hereon_logo.svg" width="20%"> <img src="https://www.edito.eu/wp-content/uploads/2023/09/screenshot.png" width="20%">
+
 <img src="https://github.com/secchildo/safeBeachBS/blob/3448fe42432dc9c9503dca00fd09f91204abbdab/logo.png" width="35%">
 
-The Northwestern Black Sea (NWBS) have a wide range of beaches which are exposed to different wind wave conditions. In this sense, safeBeachBS is an application which helps to identify hazardous conditions at beaches. This application uses Marine Copernicus capabilities together with morphohydrodynamic model to identify unsafe conditions at  7 beaches of the NWBS:
+The Northwestern Black Sea (NWBS) have a wide range of beaches which are exposed to different wave conditions. In this sense, safeBeachBS is an application which helps to identify hazardous conditions at beaches. This application uses Marine Copernicus capabilities together with morphohydrodynamic model to identify unsafe conditions at  7 beaches of the NWBS:
 
 - Ropotamo Beach (Bulgary)
 - Kavatsite Beach(Bulgary)
